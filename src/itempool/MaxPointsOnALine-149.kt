@@ -111,9 +111,6 @@ object MaxPointsOnALine149 {
 }
 
 fun main() {
-//    println("Enter array:")
-//    val input = readLine()
-
     // A 6x5 array of Int, all set to 0.
 //    var m = Array(6) {Array(5) {0} }
 
